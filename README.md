@@ -20,7 +20,7 @@ phoenix-bii-analysis/
 └── README.md                        
 ```
 
-The `notebooks/` directory contains the Jupyter notebook with all data processing, analysis, and visualization code. The `data/` directory is for local copies of shapefiles (if needed), though the primary BII raster data is accessed directly from Microsoft Planetary Computer.
+The `bii_analysis.ipynb` contains all data processing, analysis, and visualization code. The `data/` directory is for local copies of shapefiles, though the primary BII raster data is accessed directly from Microsoft Planetary Computer.
 
 ## Data
 
