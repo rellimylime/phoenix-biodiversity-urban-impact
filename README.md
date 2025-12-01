@@ -11,8 +11,7 @@ The project calculates the percentage of the Phoenix area maintaining high biodi
 ```
 phoenix-bii-analysis/
 │
-├── notebooks/
-│   └── bii_analysis.ipynb          # Main analysis notebook
+├── bii_analysis.ipynb               # Main analysis notebook 
 │
 ├── data/                            # Data directory (see Data section)
 │
