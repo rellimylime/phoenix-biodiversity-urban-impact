@@ -14,7 +14,8 @@ phoenix-bii-analysis/
 ├── bii_analysis.ipynb       
 │
 ├── data/                            
-│     └── tl_2020_04_cousub          
+│     └── tl_2020_04_cousub
+│
 ├── .gitignore                       
 └── README.md                        
 ```
