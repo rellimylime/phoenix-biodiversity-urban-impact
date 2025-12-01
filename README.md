@@ -11,12 +11,12 @@ The project calculates the percentage of the Phoenix area maintaining high biodi
 ```
 phoenix-bii-analysis/
 │
-├── bii_analysis.ipynb               # Main analysis notebook 
+├── bii_analysis.ipynb       
 │
-├── data/                            # Data directory (see Data section)
-│
-├── .gitignore                       # Git ignore file
-└── README.md                        # This file
+├── data/                            
+│     └── tl_2020_04_cousub          
+├── .gitignore                       
+└── README.md                        
 ```
 
 The `notebooks/` directory contains the Jupyter notebook with all data processing, analysis, and visualization code. The `data/` directory is for local copies of shapefiles (if needed), though the primary BII raster data is accessed directly from Microsoft Planetary Computer.
