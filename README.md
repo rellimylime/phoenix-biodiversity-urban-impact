@@ -55,13 +55,12 @@ This analysis requires Python 3.x with the following packages:
 - `rioxarray` - Geospatial raster data operations
 - `pystac-client` - STAC catalog access
 - `planetary-computer` - Microsoft Planetary Computer authentication
-- `odc-stac` - Load STAC items as xarray datasets
 - `matplotlib` - Data visualization
 - `contextily` - Basemap integration
 
 Install all dependencies:
 ```bash
-pip install numpy geopandas rioxarray pystac-client planetary-computer odc-stac matplotlib contextily
+pip install numpy geopandas rioxarray pystac-client planetary-computer matplotlib contextily
 ```
 
 ## References
